@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreyHallClub", "CoreyHallClub\CoreyHallClub.csproj", "{D549B7D3-18C6-4B95-AD59-9EA77750C9E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreyHallClub.Tests", "CoreyHallClub.Tests\CoreyHallClub.Tests.csproj", "{344AA27F-406E-4617-A0D6-DC3681B16A22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D549B7D3-18C6-4B95-AD59-9EA77750C9E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D549B7D3-18C6-4B95-AD59-9EA77750C9E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D549B7D3-18C6-4B95-AD59-9EA77750C9E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D549B7D3-18C6-4B95-AD59-9EA77750C9E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{344AA27F-406E-4617-A0D6-DC3681B16A22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{344AA27F-406E-4617-A0D6-DC3681B16A22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{344AA27F-406E-4617-A0D6-DC3681B16A22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{344AA27F-406E-4617-A0D6-DC3681B16A22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5AB6C733-DB56-4BA5-92D4-A97059C99356}
+	EndGlobalSection
+EndGlobal
